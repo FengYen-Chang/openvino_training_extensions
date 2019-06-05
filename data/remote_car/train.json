@@ -790,7 +790,7 @@
             "flickr_url": null,
             "height": 360,
             "id": 0,
-            "image": "./data/xml/0019.jpg",
+            "image": "./img/0019.jpg",
             "license": null,
             "width": 640
         },
@@ -802,7 +802,7 @@
             "flickr_url": null,
             "height": 360,
             "id": 1,
-            "image": "./data/xml/0010.jpg",
+            "image": "./img/0010.jpg",
             "license": null,
             "width": 640
         },
@@ -814,7 +814,7 @@
             "flickr_url": null,
             "height": 360,
             "id": 2,
-            "image": "./data/xml/0022.jpg",
+            "image": "./img/0022.jpg",
             "license": null,
             "width": 640
         },
@@ -826,7 +826,7 @@
             "flickr_url": null,
             "height": 360,
             "id": 3,
-            "image": "./data/xml/0016.jpg",
+            "image": "./img/0016.jpg",
             "license": null,
             "width": 640
         },
@@ -838,7 +838,7 @@
             "flickr_url": null,
             "height": 360,
             "id": 4,
-            "image": "./data/xml/0000.jpg",
+            "image": "./img/0000.jpg",
             "license": null,
             "width": 640
         },
@@ -850,7 +850,7 @@
             "flickr_url": null,
             "height": 360,
             "id": 5,
-            "image": "./data/xml/0021.jpg",
+            "image": "./img/0021.jpg",
             "license": null,
             "width": 640
         },
@@ -862,7 +862,7 @@
             "flickr_url": null,
             "height": 360,
             "id": 6,
-            "image": "./data/xml/0011.jpg",
+            "image": "./img/0011.jpg",
             "license": null,
             "width": 640
         },
@@ -874,7 +874,7 @@
             "flickr_url": null,
             "height": 360,
             "id": 7,
-            "image": "./data/xml/0012.jpg",
+            "image": "./img/0012.jpg",
             "license": null,
             "width": 640
         },
@@ -886,7 +886,7 @@
             "flickr_url": null,
             "height": 360,
             "id": 8,
-            "image": "./data/xml/0007.jpg",
+            "image": "./img/0007.jpg",
             "license": null,
             "width": 640
         },
@@ -898,7 +898,7 @@
             "flickr_url": null,
             "height": 360,
             "id": 9,
-            "image": "./data/xml/0015.jpg",
+            "image": "./img/0015.jpg",
             "license": null,
             "width": 640
         },
@@ -910,7 +910,7 @@
             "flickr_url": null,
             "height": 360,
             "id": 10,
-            "image": "./data/xml/0013.jpg",
+            "image": "./img/0013.jpg",
             "license": null,
             "width": 640
         },
@@ -922,7 +922,7 @@
             "flickr_url": null,
             "height": 360,
             "id": 11,
-            "image": "./data/xml/0008.jpg",
+            "image": "./img/0008.jpg",
             "license": null,
             "width": 640
         },
@@ -934,7 +934,7 @@
             "flickr_url": null,
             "height": 360,
             "id": 12,
-            "image": "./data/xml/0018.jpg",
+            "image": "./img/0018.jpg",
             "license": null,
             "width": 640
         },
@@ -946,7 +946,7 @@
             "flickr_url": null,
             "height": 360,
             "id": 13,
-            "image": "./data/xml/0006.jpg",
+            "image": "./img/0006.jpg",
             "license": null,
             "width": 640
         },
@@ -958,7 +958,7 @@
             "flickr_url": null,
             "height": 360,
             "id": 14,
-            "image": "./data/xml/0023.jpg",
+            "image": "./img/0023.jpg",
             "license": null,
             "width": 640
         },
@@ -970,7 +970,7 @@
             "flickr_url": null,
             "height": 360,
             "id": 15,
-            "image": "./data/xml/0005.jpg",
+            "image": "./img/0005.jpg",
             "license": null,
             "width": 640
         },
@@ -982,7 +982,7 @@
             "flickr_url": null,
             "height": 360,
             "id": 16,
-            "image": "./data/xml/0014.jpg",
+            "image": "./img/0014.jpg",
             "license": null,
             "width": 640
         },
@@ -994,7 +994,7 @@
             "flickr_url": null,
             "height": 360,
             "id": 17,
-            "image": "./data/xml/0009.jpg",
+            "image": "./img/0009.jpg",
             "license": null,
             "width": 640
         },
@@ -1006,7 +1006,7 @@
             "flickr_url": null,
             "height": 360,
             "id": 18,
-            "image": "./data/xml/0004.jpg",
+            "image": "./img/0004.jpg",
             "license": null,
             "width": 640
         },
@@ -1018,7 +1018,7 @@
             "flickr_url": null,
             "height": 360,
             "id": 19,
-            "image": "./data/xml/0003.jpg",
+            "image": "./img/0003.jpg",
             "license": null,
             "width": 640
         },
@@ -1030,7 +1030,7 @@
             "flickr_url": null,
             "height": 360,
             "id": 20,
-            "image": "./data/xml/0001.jpg",
+            "image": "./img/0001.jpg",
             "license": null,
             "width": 640
         },
@@ -1042,7 +1042,7 @@
             "flickr_url": null,
             "height": 360,
             "id": 21,
-            "image": "./data/xml/0017.jpg",
+            "image": "./img/0017.jpg",
             "license": null,
             "width": 640
         },
@@ -1054,7 +1054,7 @@
             "flickr_url": null,
             "height": 360,
             "id": 22,
-            "image": "./data/xml/0002.jpg",
+            "image": "./img/0002.jpg",
             "license": null,
             "width": 640
         },
@@ -1066,7 +1066,7 @@
             "flickr_url": null,
             "height": 360,
             "id": 23,
-            "image": "./data/xml/0020.jpg",
+            "image": "./img/0020.jpg",
             "license": null,
             "width": 640
         }
